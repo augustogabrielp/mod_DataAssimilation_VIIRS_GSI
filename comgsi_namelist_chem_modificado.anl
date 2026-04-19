@@ -43,7 +43,7 @@ OBS_INPUT::
 !  modisbufr      modis_aod   terra     v.modis_terra        1.0     2     0
 !  modisbufr      modis_aod   aqua      v.modis_aqua         1.0     2     0
 !  pm25bufr       pm2_5       null      TEOM                 1.0     0     0
-   viirsbufr      viirs_aod   NPP       v.viirs_npp          1.0     2     0
+   viirsbufr      viirs_aod   NPP       v.viirs-m_npp        1.0     2     0
 :::
  &SUPEROB_RADAR
    del_azimuth=5.,del_elev=.25,del_range=5000.,del_time=.5,elev_angle_max=5.,minnum=50,range_max=100000.,
