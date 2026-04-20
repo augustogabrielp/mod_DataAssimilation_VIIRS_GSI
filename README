@@ -1,4 +1,6 @@
 ###### DIRETÓRIO DE CADA ARQUIVO: 
+As rotinas que tem o nome "modificado" foram adaptadas para a assimilação do VIIRS AOD, além do MODIS AOD. 
+O restante sem "modificado" no nome são as rotinas originais dedicadas somente a leitura do MODIS AOD
 
 ############################################################
 aeroinfo_aod.txt
