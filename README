@@ -1,0 +1,21 @@
+###### DIRETÓRIO DE CADA ARQUIVO: 
+
+############################################################
+aeroinfo_aod.txt
+
+/home/augusto.pereira/Packages/gsi_new/fix/aeroinfo_aod.txt
+############################################################
+
+############################################################
+read_aerosol.f90
+
+/home/augusto.pereira/Packages/gsi_new/src/gsi/read_aerosol.f90
+############################################################
+
+############################################################
+comgsi_namelist_chem.sh
+runGSI.sh
+
+/mnt/beegfs/augusto.pereira/Opera/scripts/comgsi_namelist_chem.sh
+/mnt/beegfs/augusto.pereira/Opera/scripts/runGSI.sh
+############################################################
