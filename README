@@ -19,3 +19,9 @@ runGSI.sh
 /mnt/beegfs/augusto.pereira/Opera/scripts/comgsi_namelist_chem.sh
 /mnt/beegfs/augusto.pereira/Opera/scripts/runGSI.sh
 ############################################################
+
+############################################################
+gsi_obOperTypeManager.F90
+
+/home/augusto.pereira/Packages/gsi_new/src/gsi/gsi_obOperTypeManager.F90
+############################################################
